@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\L1B.dir/objects.a
+C:\Downloads\mingw64\MinGW\bin\ar.exe cr CMakeFiles\L1B.dir/objects.a @CMakeFiles\L1B.dir\objects1.rsp
+C:\Downloads\mingw64\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\L1B.dir/objects.a -Wl,--no-whole-archive  -o L1B.exe -Wl,--out-implib,libL1B.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\L1B.dir\linklibs.rsp
