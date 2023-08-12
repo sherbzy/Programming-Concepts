@@ -1,0 +1,3 @@
+C:/CSCI261/L1A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/CSCI261/L1A/cmake-build-debug/CMakeFiles/L1A.dir
+C:/CSCI261/L1A/cmake-build-debug/CMakeFiles/edit_cache.dir
